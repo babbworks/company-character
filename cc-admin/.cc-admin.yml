@@ -1,0 +1,6 @@
+# Replace these values for your organisation
+org: your-github-org
+brand: your-brand
+state_path: ../company-state
+dist_path: ./dist
+cli_path: ../company-cli

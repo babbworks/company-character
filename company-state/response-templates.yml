@@ -1,0 +1,22 @@
+tool_summary: |
+  {name} — {summary}
+  Status: {status}
+
+tool_full: |
+  {name}
+  {summary}
+
+  The problem: {problem}
+  How it works: {how}
+  Status: {status}
+
+working_on: |
+  {now_md}
+
+  Most active this week: {active_repos}
+  Recent releases: {recent_releases}
+
+unknown: "I don't have that indexed yet."
+
+# Replace [Brand] and [org] with your values
+greeting: "Hey. I'm [Brand]. Ask me anything about [org]."

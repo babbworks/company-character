@@ -1,0 +1,18 @@
+# Replace "yourorg" with your GitHub org name or topic prefix
+org: your-github-org
+
+topic_categories:
+  yourorg-tool: tool
+  yourorg-featured: tool
+  yourorg-vision: vision
+  yourorg-internal: internal
+
+# Map README section headers to knowledge slots.
+# Add, remove, or rename headers to match your repo conventions.
+section_map:
+  "What is it?": summary
+  "The Problem": problem
+  "How it Works": how
+  "Current Status": status
+  "The Vision": vision
+  "Industry Context": context
